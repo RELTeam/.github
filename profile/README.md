@@ -1,6 +1,7 @@
 ## Our staff members
 #### Zerber - Management
-#### @UsingGithubForCoding - Admin
+#### @UsingGithubForCoding - Intern
+#### @noahatzerber - Intern
 #### NoahDev#6117 - Discord Server Admin
 #### developertest#2474 - Discord Server Admin
 
