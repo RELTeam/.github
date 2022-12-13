@@ -1,10 +1,9 @@
-## Our staff members
-#### Zerber - Management
-#### @UsingGithubForCoding - Developer
-#### @noahatzerber - Developer
+# Hey, Welcome to Zerber Profile!
 
-## Website Projects
-#### Official Website
-<a href="https://zerberdev.github.io">Official Website</a>
-#### BobTheBot Official Website
-<a href="https://zerberdev.github.io/bobthebot.html">BTB - The Discord Bot related to fun!</a>
+## Our projects
+#### [BobTheBot (discord bot)](https://pso-bobthebot.github.io)
+#### [ZHome (Revamp) ***UNFINISHED***](https://github.com/zerberdev/home)
+#### [ZHome Original ***DISCONTINUED***](https://zerberdev.github.io)
+
+## Learn more about Zerber
+#### Want to learn more about us? Check out our DevDocs! [DevDocs (Markdown Edition)](https://zerberdev.github.io/docs)
