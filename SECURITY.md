@@ -1,5 +1,5 @@
 # Privacy & Security Policy
-## ***Tracking actions in or out of spiltJS***
-### We do not track any actions. Please look at our source code to see for yourself.
-## ***REL Games Security***
-### If a developer abuses their company rank, please report it to the lead developer (Gunful) on Discord: ***Gunful#2474***
+## ***Tracking actions on our websites***
+### We do not track actions on websites owned by REL Games.
+## ***Report developer rank abuse***
+### Report a developer abusing their powers at this Discord: ***Gunful#2474***
